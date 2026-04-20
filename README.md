@@ -3,7 +3,8 @@
 <br>
 <h2>Esse foi um projeto que aprendi no Dev Club usando html e css, o objetivo era deixar o site responsivo.</h2>
 
-<h2>Esta é uma imagem para desktop</h2>
+<h4>Esta é uma imagem para desktop </h4>
 <img src="https://github.com/benildabs-dev/Easy-Shopping/blob/main/img/easy.png?raw=true"/>
 
-<h2>Esta é uma imagem para mobile</h2>
+<h4>Esta é uma imagem para mobile</h4>
+<img src="https://github.com/benildabs-dev/Easy-Shopping/blob/main/img/easy_responsive.png?raw=true"/>
