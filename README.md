@@ -7,4 +7,4 @@
 <img src="https://github.com/benildabs-dev/Easy-Shopping/blob/main/img/mackup_desktop.jpeg?raw=true"/>
 
 <h4>Esta é uma imagem para mobile</h4>
-<img src="https://github.com/benildabs-dev/Easy-Shopping/blob/main/img/easy_responsive.png?raw=true"/>
+<img src="https://github.com/benildabs-dev/Easy-Shopping/blob/main/img/mackup_celular.png?raw=true"/>
